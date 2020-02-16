@@ -30,7 +30,7 @@
  * limitations under the License.
  */
 
-package com.google.zxing.client.android.camera;
+package com.iotdata.zxing.client.android.camera;
 
 import android.annotation.SuppressLint;
 import android.hardware.Camera;

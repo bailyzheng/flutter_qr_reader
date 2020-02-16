@@ -1,13 +1,9 @@
 package me.hetian.flutter_qr_reader.views;
 
-import android.annotation.SuppressLint;
 import android.app.ActionBar;
 import android.content.Context;
 import android.graphics.PointF;
-import android.hardware.Camera;
 import android.view.View;
-
-import com.google.zxing.client.android.camera.CameraManager;
 
 import java.util.ArrayList;
 import java.util.HashMap;

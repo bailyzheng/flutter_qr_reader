@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.zxing.client.android.camera;
+package com.iotdata.zxing.client.android.camera;
 
 import android.content.Context;
 import android.graphics.Point;
@@ -33,8 +33,8 @@ import java.util.Comparator;
 import java.util.List;
 
 import me.hetian.flutter_qr_reader.readerView.SimpleLog;
-import com.google.zxing.client.android.camera.open.CameraFacing;
-import com.google.zxing.client.android.camera.open.OpenCamera;
+import com.iotdata.zxing.client.android.camera.open.CameraFacing;
+import com.iotdata.zxing.client.android.camera.open.OpenCamera;
 
 /**
  * A class which deals with reading, parsing, and setting the google.zxing.client.android.android.com.google.zxing.client.android.camera parameters which are used to

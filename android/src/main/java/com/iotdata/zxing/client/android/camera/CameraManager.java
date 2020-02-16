@@ -14,21 +14,19 @@
  * limitations under the License.
  */
 
-package com.google.zxing.client.android.camera;
+package com.iotdata.zxing.client.android.camera;
 
 import android.content.Context;
 import android.graphics.Point;
 import android.hardware.Camera;
 import android.view.SurfaceHolder;
 
-import com.google.zxing.PlanarYUVLuminanceSource;
-
 import java.io.IOException;
 
 import me.hetian.flutter_qr_reader.reader.MyPlanarYUVLuminanceSource;
 import me.hetian.flutter_qr_reader.readerView.SimpleLog;
-import com.google.zxing.client.android.camera.open.OpenCamera;
-import com.google.zxing.client.android.camera.open.OpenCameraInterface;
+import com.iotdata.zxing.client.android.camera.open.OpenCamera;
+import com.iotdata.zxing.client.android.camera.open.OpenCameraInterface;
 
 /**
  * This object wraps the Camera service object and expects to be the only one talking to it. The
